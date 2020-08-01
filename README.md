@@ -1,4 +1,4 @@
 # HelloWord
 
 hi
-hi there
+hello
